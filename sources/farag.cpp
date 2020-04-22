@@ -4,4 +4,3 @@
 void farag(){
 	cout<<"Mohamed Farag"<<endl<<"mfaragg@aucegypt.edu"<<endl;
 }
->>>>>>> origin/MuhammedElemam
