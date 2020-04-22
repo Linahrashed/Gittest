@@ -1,7 +1,5 @@
-#include <iostream>
 #include "farag.h"
-using namespace std;
 
-int main(){
-	farag();
+	Void farag(){
+		cout<<"Mohammed Farag"<<endl<<"mfaraggg@aucegypt.edu"<<endl;
 }
