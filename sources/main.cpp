@@ -1,7 +1,10 @@
 #include <iostream>
 #include <farag.h>
+#include <Muhammedelemam.h>
+
 int main()
 {
-	farag()
+	farag();
+	Muhammedelemam();
 	return 0;
 }
