@@ -1,6 +1,6 @@
-#include <iostream>
 #include "MuhammedElemam.h"
-using namespace std;
 
-void MuhammedElemam();
+void MuhammedElemam(){
+	cout<<"Muhammed Elemam"<<endl<<"muhammedelemam@aucegypt.edu"<<endl;
+}
 
