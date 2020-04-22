@@ -1,4 +1,4 @@
-exe: main.cpp farag.cpp Muhammedelemam.cpp
+exe: main.cpp farag.cpp MuhammedElemam.cpp
 	g++ -I /home/linah/gittest/sources 	
-	main.cpp Muhammedelemam.cpp farag.cpp -o exe 
+	main.cpp MuhammedElemam.cpp farag.cpp -o exe 
 		
