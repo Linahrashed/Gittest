@@ -2,5 +2,5 @@
 #include "MuhammedElemam.h"
 using namespace std;
 
-MuhammedElemam();
+void MuhammedElemam();
 
