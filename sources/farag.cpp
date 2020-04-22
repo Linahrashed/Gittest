@@ -2,6 +2,6 @@
 
 
 void farag(){
-	cout<<"Mohammed Farag"<<endl<<"mfaraggg@aucegypt.edu"<<endl;
-};
->>>>>>> origin/mfaraggg
+	cout<<"Mohamed Farag"<<endl<<"mfaragg@aucegypt.edu"<<endl;
+}
+>>>>>>> origin/MuhammedElemam
